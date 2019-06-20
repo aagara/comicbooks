@@ -6,7 +6,7 @@
         "request-promise": "^4.2.4"
     },
     "scripts": {
-        "start": "node server.js"
+        "start": "node app.js"
       },
       "repository": {
         "type": "git",
